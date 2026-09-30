@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**JiangYueGrace/JiangYueGrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TSUKI/TSUKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
